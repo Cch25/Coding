@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSum", "TwoNumberSum\TwoNumberSum.csproj", "{3F28DE95-CCAC-40C8-AB0D-E11AAC1193A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTests", "CodintTests\CodingTests.csproj", "{ED94565A-96B1-4846-88BA-D54570D4669C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTests", "CodingTests\CodingTests.csproj", "{ED94565A-96B1-4846-88BA-D54570D4669C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
