@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DepthFirstSearch\DepthFirstSearch.csproj" />
     <ProjectReference Include="..\TwoNumberSum\TwoNumberSum.csproj" />
   </ItemGroup>
 
