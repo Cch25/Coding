@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSum", "ProductSum\ProductSum.csproj", "{FE728318-4403-4CB4-9076-5E607B0E23A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeLargestNumbers", "ThreeLargestNumbers\ThreeLargestNumbers.csproj", "{7464E52F-AB03-4015-B25E-6A1E8A07043D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FE728318-4403-4CB4-9076-5E607B0E23A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE728318-4403-4CB4-9076-5E607B0E23A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE728318-4403-4CB4-9076-5E607B0E23A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7464E52F-AB03-4015-B25E-6A1E8A07043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7464E52F-AB03-4015-B25E-6A1E8A07043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7464E52F-AB03-4015-B25E-6A1E8A07043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7464E52F-AB03-4015-B25E-6A1E8A07043D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
