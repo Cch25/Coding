@@ -15,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DepthFirstSearch\DepthFirstSearch.csproj" />
     <ProjectReference Include="..\Fibonacci\Fibonacci.csproj" />
+    <ProjectReference Include="..\ProductSum\ProductSum.csproj" />
     <ProjectReference Include="..\TwoNumberSum\TwoNumberSum.csproj" />
   </ItemGroup>
 
