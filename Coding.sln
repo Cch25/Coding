@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum", "TwoNumberSu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTests", "CodingTests\CodingTests.csproj", "{ED94565A-96B1-4846-88BA-D54570D4669C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{63BCF015-6606-4CAD-9CAF-1CF7357971E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{63BCF015-6606-4CAD-9CAF-1CF7357971E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{988F20B3-397A-4082-8F46-85EECB2BC4B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{63BCF015-6606-4CAD-9CAF-1CF7357971E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63BCF015-6606-4CAD-9CAF-1CF7357971E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63BCF015-6606-4CAD-9CAF-1CF7357971E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988F20B3-397A-4082-8F46-85EECB2BC4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988F20B3-397A-4082-8F46-85EECB2BC4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988F20B3-397A-4082-8F46-85EECB2BC4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988F20B3-397A-4082-8F46-85EECB2BC4B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
