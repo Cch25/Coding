@@ -1,4 +1,4 @@
-﻿namespace ProductSum
+﻿namespace EasyQuestions.ProductSum
 {
     public class ProdSum
     {

@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using ProductSum;
+using EasyQuestions.ProductSum;
 
-namespace CodingTests
+namespace EasyTests.CodingTests
 {
     public class ProductSumTests
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Palindrome
+namespace EasyQuestions.Palindrome
 {
     public class FindPalindrome
     {

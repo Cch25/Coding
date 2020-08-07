@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using ThreeLargestNumbers;
+using EasyQuestions.ThreeLargestNumbers;
 
-namespace CodingTests
+namespace EasyTests.CodingTests
 {
     public class ThreeLargestNumbersTests
     {

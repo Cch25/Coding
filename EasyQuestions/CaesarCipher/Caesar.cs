@@ -1,4 +1,4 @@
-﻿namespace CaesarCipher
+﻿namespace EasyQuestions.CaesarCipher
 {
     public class Caesar
     {

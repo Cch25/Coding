@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using Palindrome;
+using EasyQuestions.Palindrome;
 
-namespace CodingTests
+namespace EasyTests.CodingTests
 {
     public class PalindromeTests
     {

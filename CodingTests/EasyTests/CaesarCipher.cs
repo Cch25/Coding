@@ -1,7 +1,7 @@
-﻿using CaesarCipher;
+﻿using EasyQuestions.CaesarCipher;
 using NUnit.Framework;
 
-namespace CodingTests
+namespace EasyTests.CodingTests
 {
     public class CaesarCipher
     {

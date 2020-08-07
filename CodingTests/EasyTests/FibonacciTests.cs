@@ -1,7 +1,7 @@
-﻿using Fibonacci;
+﻿using EasyQuestions.Fibonacci;
 using NUnit.Framework; 
 
-namespace CodingTests
+namespace EasyTests.CodingTests
 {
     public class FibonacciTests
     {

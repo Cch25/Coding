@@ -13,13 +13,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CaesarCipher\CaesarCipher.csproj" />
-    <ProjectReference Include="..\DepthFirstSearch\DepthFirstSearch.csproj" />
-    <ProjectReference Include="..\Fibonacci\Fibonacci.csproj" />
-    <ProjectReference Include="..\Palindrome\Palindrome.csproj" />
-    <ProjectReference Include="..\ProductSum\ProductSum.csproj" />
-    <ProjectReference Include="..\ThreeLargestNumbers\ThreeLargestNumbers.csproj" />
-    <ProjectReference Include="..\TwoNumberSum\TwoNumberSum.csproj" />
+    <ProjectReference Include="..\EasyQuestions\CaesarCipher\CaesarCipher.csproj" />
+    <ProjectReference Include="..\EasyQuestions\DepthFirstSearch\DepthFirstSearch.csproj" />
+    <ProjectReference Include="..\EasyQuestions\Fibonacci\Fibonacci.csproj" />
+    <ProjectReference Include="..\EasyQuestions\Palindrome\Palindrome.csproj" />
+    <ProjectReference Include="..\EasyQuestions\ProductSum\ProductSum.csproj" />
+    <ProjectReference Include="..\EasyQuestions\ThreeLargestNumbers\ThreeLargestNumbers.csproj" />
+    <ProjectReference Include="..\EasyQuestions\TwoNumberSum\TwoNumberSum.csproj" />
   </ItemGroup>
 
 </Project>

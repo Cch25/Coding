@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Fibonacci
+namespace EasyQuestions.Fibonacci
 {
     public class FibonacciImplementation
     {

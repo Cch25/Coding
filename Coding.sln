@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum", "TwoNumberSum\TwoNumberSum.csproj", "{3F28DE95-CCAC-40C8-AB0D-E11AAC1193A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumberSum", "EasyQuestions\TwoNumberSum\TwoNumberSum.csproj", "{3F28DE95-CCAC-40C8-AB0D-E11AAC1193A8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTests", "CodingTests\CodingTests.csproj", "{ED94565A-96B1-4846-88BA-D54570D4669C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{63BCF015-6606-4CAD-9CAF-1CF7357971E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthFirstSearch", "EasyQuestions\DepthFirstSearch\DepthFirstSearch.csproj", "{63BCF015-6606-4CAD-9CAF-1CF7357971E6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{988F20B3-397A-4082-8F46-85EECB2BC4B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "EasyQuestions\Fibonacci\Fibonacci.csproj", "{988F20B3-397A-4082-8F46-85EECB2BC4B7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductSum", "ProductSum\ProductSum.csproj", "{FE728318-4403-4CB4-9076-5E607B0E23A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductSum", "EasyQuestions\ProductSum\ProductSum.csproj", "{FE728318-4403-4CB4-9076-5E607B0E23A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeLargestNumbers", "ThreeLargestNumbers\ThreeLargestNumbers.csproj", "{7464E52F-AB03-4015-B25E-6A1E8A07043D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeLargestNumbers", "EasyQuestions\ThreeLargestNumbers\ThreeLargestNumbers.csproj", "{7464E52F-AB03-4015-B25E-6A1E8A07043D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{9E943A4F-D2B6-48A3-8DCA-CFD3462FC089}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "EasyQuestions\Palindrome\Palindrome.csproj", "{9E943A4F-D2B6-48A3-8DCA-CFD3462FC089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{666C5655-924E-4C03-8E55-62F3B0423BEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "EasyQuestions\CaesarCipher\CaesarCipher.csproj", "{666C5655-924E-4C03-8E55-62F3B0423BEA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EasyQuestions", "EasyQuestions", "{4EC39FCB-529B-49B6-97E8-9254338C3ECF}"
 EndProject

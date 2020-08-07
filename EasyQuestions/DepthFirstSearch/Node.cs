@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DepthFirstSearch
+namespace EasyQuestions.DepthFirstSearch
 {
     public class Node<T>
     {

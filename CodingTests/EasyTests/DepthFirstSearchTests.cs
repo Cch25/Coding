@@ -1,10 +1,10 @@
-﻿using DepthFirstSearch;
+﻿using EasyQuestions.DepthFirstSearch;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CodingTests
+namespace EasyTests.CodingTests
 {
     class DepthFirstSearchTests
     {

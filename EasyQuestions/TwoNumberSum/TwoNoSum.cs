@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace TwoNumberSum
+namespace EasyQuestions.TwoNumberSum
 {
     /// <summary>
     /// Find the pair of numbers in an array that sums to the target value

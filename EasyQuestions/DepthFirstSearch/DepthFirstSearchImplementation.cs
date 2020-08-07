@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DepthFirstSearch
+namespace EasyQuestions.DepthFirstSearch
 {
     public class DepthFirstSearchImplementation
     {

@@ -1,4 +1,4 @@
-﻿namespace ThreeLargestNumbers
+﻿namespace EasyQuestions.ThreeLargestNumbers
 {
     public class ThreeLargestNo
     {

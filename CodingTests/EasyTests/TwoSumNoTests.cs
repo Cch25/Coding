@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using TwoNumberSum;
+using EasyQuestions.TwoNumberSum;
 
-namespace CodingTests
+namespace EasyTests.CodingTests
 {
     public class TwoSumNoTests
     {
@@ -10,7 +10,6 @@ namespace CodingTests
         {
         }
 
-        #region [ Two numbers sum ]
         [Test]
         [TestCase(new[] { 3, 5, -4, 8, 11, 1, -1, 6 }, 10)]
         [TestCase(new[] { 0, 2, -2, 3, 5, 11, 4, -3 }, 8)]
@@ -31,7 +30,6 @@ namespace CodingTests
             Assert.AreEqual(LeftS2 + RightS2, target);
             Assert.AreEqual(LeftS3 + RightS3, target);
 
-        }
-        #endregion
+        } 
     }
 }
