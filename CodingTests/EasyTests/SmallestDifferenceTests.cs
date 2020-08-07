@@ -1,6 +1,6 @@
-﻿using NUnit.Framework;
-using SmallestDifference;
+﻿using EasyQuestions.SmallestDifference;
 using System.Collections.Generic;
+using NUnit.Framework;
 
 namespace CodingTests.EasyTests
 {

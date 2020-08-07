@@ -18,6 +18,7 @@
     <ProjectReference Include="..\EasyQuestions\Fibonacci\Fibonacci.csproj" />
     <ProjectReference Include="..\EasyQuestions\Palindrome\Palindrome.csproj" />
     <ProjectReference Include="..\EasyQuestions\ProductSum\ProductSum.csproj" />
+    <ProjectReference Include="..\EasyQuestions\SmallestDifference\SmallestDifference.csproj" />
     <ProjectReference Include="..\EasyQuestions\ThreeLargestNumbers\ThreeLargestNumbers.csproj" />
     <ProjectReference Include="..\EasyQuestions\TwoNumberSum\TwoNumberSum.csproj" />
     <ProjectReference Include="..\SmallestDifference\SmallestDifference.csproj" />
