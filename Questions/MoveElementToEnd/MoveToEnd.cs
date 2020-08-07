@@ -24,5 +24,30 @@
             }
             return array;
         }
+        //O(n) time | O(1) space
+        public int[] MoveElementToEndDifferentSolution(int[] array, int element)
+        {
+            int leftPointer = 0;
+            int rightPointer = array.Length - 1;
+            while (leftPointer < rightPointer)
+            {
+                if (array[leftPointer] == element)
+                {
+                    while (leftPointer < rightPointer)
+                    {
+                        if (array[rightPointer] != element)
+                        {
+                            array[leftPointer] = array[rightPointer];
+                            array[rightPointer] = element;
+                            rightPointer--;
+                            break;
+                        }
+                        rightPointer--;
+                    }
+                }
+                leftPointer++;
+            }
+            return array;
+        }
     }
 }
