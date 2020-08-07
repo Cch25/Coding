@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CaesarCipher\CaesarCipher.csproj" />
     <ProjectReference Include="..\DepthFirstSearch\DepthFirstSearch.csproj" />
     <ProjectReference Include="..\Fibonacci\Fibonacci.csproj" />
     <ProjectReference Include="..\Palindrome\Palindrome.csproj" />
