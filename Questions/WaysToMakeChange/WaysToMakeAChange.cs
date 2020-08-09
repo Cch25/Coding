@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace WaysToMakeChange
 {
@@ -20,15 +21,11 @@ namespace WaysToMakeChange
                 ways.Add(0);
             }
             ways[0] = 1;
-
             foreach (int coin in coins)
             {
                 for (int j = coin; j <= amount; j++)
                 {
-                    if (coin <= j)
-                    {
-                        ways[j] += ways[j - coin];
-                    }
+                    ways[j] += ways[j - coin];
                 }
             }
             return ways[amount];
