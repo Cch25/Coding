@@ -10,7 +10,7 @@ namespace CodingTests.QuestionTests
         {
             WaysToMakeAChange wmc = new WaysToMakeAChange();
             int result = wmc.WaysToChange(new int[] { 1, 5, 10, 25 }, 12);
-            Assert.That(result, Is.EqualTo(3));
+            Assert.That(result, Is.EqualTo(4));
         }
     }
 }
