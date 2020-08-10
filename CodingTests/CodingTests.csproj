@@ -21,6 +21,7 @@
     <ProjectReference Include="..\EasyQuestions\SmallestDifference\SmallestDifference.csproj" />
     <ProjectReference Include="..\EasyQuestions\ThreeLargestNumbers\ThreeLargestNumbers.csproj" />
     <ProjectReference Include="..\EasyQuestions\TwoNumberSum\TwoNumberSum.csproj" />
+    <ProjectReference Include="..\HardQuestions\TopologicalSort\TopologicalSort.csproj" />
     <ProjectReference Include="..\Questions\MoveElementToEnd\MoveElementToEnd.csproj" />
     <ProjectReference Include="..\Questions\WaysToMakeChange\WaysToMakeChange.csproj" />
   </ItemGroup>
